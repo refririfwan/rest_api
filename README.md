@@ -7,7 +7,9 @@ Repository ini berisikan kode dasar dari sintak untuk membuat REST API yang dipe
 Referensi pembelajaran web :
 1. https://developer.chrome.com/extensions/xhr
 2. https://code.jquery.com/
-3. 
+3. https://getbootstrap.com/
+4. https://getbootstrap.com/docs/4.4/components/navbar/
+5. 
 
 Referensi Video Pembelajaran dapat dilihat pada channel youtube refri rifwan pilih play list lalu Belajar REST API 
 
