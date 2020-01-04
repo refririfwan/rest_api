@@ -5,7 +5,9 @@ Belajar REST API
 Repository ini berisikan kode dasar dari sintak untuk membuat REST API yang dipelajari dari berbagai sumber pembelajaran.
 
 Referensi pembelajaran web :
-1. 
+1. https://developer.chrome.com/extensions/xhr
+2. https://code.jquery.com/
+3. 
 
 Referensi Video Pembelajaran dapat dilihat pada channel youtube refri rifwan pilih play list lalu Belajar REST API 
 

@@ -1,0 +1,29 @@
+[{
+        "nama": "Refri",
+        "umur": 22,
+        "nim": "1551",
+        "aktif": true,
+        "hobi": [
+            "Basket",
+            "Gitar"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Setyo Prayukso",
+            "pembimbing2": "Detyo Bagukso"
+        }
+    },
+    {
+        "nama": "Rifwan",
+        "umur": 22,
+        "nim": "5115",
+        "aktif": true,
+        "hobi": [
+            "Renang",
+            "Piano"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Haryadi Artopuro",
+            "pembimbing2": "Mulyono Biramono"
+        }
+    }
+]
