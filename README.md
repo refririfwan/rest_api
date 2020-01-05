@@ -9,7 +9,12 @@ Referensi pembelajaran web :
 2. https://code.jquery.com/
 3. https://getbootstrap.com/
 4. https://getbootstrap.com/docs/4.4/components/navbar/
-5. 
+5. https://any-api.com/
+6. https://www.getpostman.com/
+7. https://github.com/public-apis/public-apis
+8. https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA
+9. http://www.omdbapi.com/
+10. http://keycode.info/
 
 Referensi Video Pembelajaran dapat dilihat pada channel youtube refri rifwan pilih play list lalu Belajar REST API 
 
