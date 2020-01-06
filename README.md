@@ -18,6 +18,10 @@ Referensi pembelajaran web :
 11. https://www.instagram.com/developer/
 12. https://developers.google.com/
 13. https://getbootstrap.com/docs/4.3/utilities/embed/
+14. https://codeigniter.com/en/docs
+15. https://github.com/chriskacerguis/codeigniter-restserver
+16. https://github.com/chriskacerguis/codeigniter-restserver/tree/f3ba7d76cb14c11602f72b432926a17b8ff7c590
+17. 
 
 Referensi Video Pembelajaran dapat dilihat pada channel youtube refri rifwan pilih play list lalu Belajar REST API 
 
