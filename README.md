@@ -15,6 +15,9 @@ Referensi pembelajaran web :
 8. https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA
 9. http://www.omdbapi.com/
 10. http://keycode.info/
+11. https://www.instagram.com/developer/
+12. https://developers.google.com/
+13. https://getbootstrap.com/docs/4.3/utilities/embed/
 
 Referensi Video Pembelajaran dapat dilihat pada channel youtube refri rifwan pilih play list lalu Belajar REST API 
 
